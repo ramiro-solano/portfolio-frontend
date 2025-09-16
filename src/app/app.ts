@@ -146,7 +146,7 @@ export class App {
 			ariaLabel: 'Link de WhatsApp',
 			icon: '../../../../assets/icons/whatsapp-logo.svg',
 			text: 'WhatsApp',
-			link: 'https://wa.me/message/5X3YVOHO2UFLB1'
+			link: 'https://wa.me/+5493815940140'
 		},
 		{
 			ariaLabel: 'Link de LinkedIn',
